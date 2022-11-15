@@ -13,9 +13,9 @@
 ### Пример использования `git commit`:
 
 ```bash
-git commit -m "summary about the commit" # Создание снимка текущего состояния изменений, добавленных их в раздел проиндексированных файлов
+$ git commit -m "summary about the commit" # Создание снимка текущего состояния изменений, добавленных их в раздел проиндексированных файлов
 
-git commit --amend -m "Updated message for the previous commit" # Изменение описания последнего коммита
+$ git commit --amend -m "Updated message for the previous commit" # Изменение описания последнего коммита
 ```
 
 [Подробная документация](https://git-scm.com/docs/git-commit) по `git commit`
