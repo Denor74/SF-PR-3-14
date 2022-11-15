@@ -21,4 +21,4 @@ git config --global core.autocrlf true # включить преобразова
 ```bash
 $ git config --list --show-origin   
 ```
-
+[Подробная документация](https://git-scm.com/docs/git-config) по `git config`
