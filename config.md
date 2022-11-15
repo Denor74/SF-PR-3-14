@@ -7,8 +7,8 @@
 **Перед началом работы** нужно выполнить некоторые настройки:
 
 ```bash
-git config --global user.name "Your Name" # указать имя, которым будут подписаны коммиты
-git config --global user.email "e@w.com"  # указать электронную почту, которая будет в описании коммита
+$ git config --global user.name "Your Name" # указать имя, которым будут подписаны коммиты
+$ git config --global user.email "e@w.com"  # указать электронную почту, которая будет в описании коммита
 ```
 
 *Если вы в Windows:*
